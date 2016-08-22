@@ -1,0 +1,5 @@
+* misc stuff
+
+#+CAPTION: Image Test
+#+NAME: NULL
+[[./img/SuccessKid.jpg]]
