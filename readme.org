@@ -2,4 +2,4 @@
 
 #+CAPTION: Image Test
 #+NAME: Success Kid
-[[./img/kid.jpg|alt=octocat]]
+[[./img/kid.jpg?raw=true "Baby"]]
