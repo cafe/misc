@@ -8,6 +8,6 @@
 
 - Org-mode LaTeX test
   
-  \begin{equation}
+  #+BEGIN_LATEX
   x=\sqrt{b}
-  \end{equation}
+  #+END_LATEX
