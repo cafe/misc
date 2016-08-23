@@ -1,3 +1,5 @@
+#+HTML_MATHJAX: align: left indent: 5em tagside: left font: Neo-Euler
+
 * misc stuff
 
 - Org-mode image test
@@ -7,12 +9,12 @@
   [[./img/kid.jpg?raw=true "Baby"]]
 
 - Org-mode LaTeX test
-  GitHub does not support LaTeX equation rendering. For example, the following equation will not be shown:
+  GitHub does not support LaTeX equation rendering. For example, the following equation will not be shown using =#+BEGIN_LATEX=, =\begin{displaymath}=, =\[\]= or =\begin{equation*}=:
   + Displayed equations:
   
-    #+BEGIN_LATEX
+    \begin{displaymath}
     x=\sqrt{b}
-    #+END_LATEX
+    \end{displaymath}
   
   + Inline formulas:
     \(\sqrt{b}\), $\sqrt{b}$, \sqrt{b}, Greek letter \epsilon, $\epsilon$, \(\epsilon\)
