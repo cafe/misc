@@ -12,9 +12,9 @@
   GitHub does not support LaTeX equation rendering. For example, the following equation will not be shown using =#+BEGIN_LATEX=, =\begin{displaymath}=, =\[\]= or =\begin{equation*}=:
   + Displayed equations:
   
-    \begin{displaymath}
+    \begin{equation*}
     x=\sqrt{b}
-    \end{displaymath}
+    \end{equation*}
   
   + Inline formulas:
     \(\sqrt{b}\), $\sqrt{b}$, \sqrt{b}, Greek letter \epsilon, $\epsilon$, \(\epsilon\)
