@@ -1,5 +1,13 @@
 * misc stuff
 
-#+CAPTION: Image Test
-#+NAME: Success Kid
-[[./img/kid.jpg?raw=true "Baby"]]
+- Org-mode image test
+
+  #+CAPTION: Image Test
+  #+NAME: Success Kid
+  [[./img/kid.jpg?raw=true "Baby"]]
+
+- Org-mode LaTeX test
+  
+  \begin{equation}
+  x=\sqrt{b}
+  \end{equation}
