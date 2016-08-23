@@ -17,4 +17,4 @@
     \end{equation}
   
   + Inline formulas:
-    \(\sqrt{b}\), $\sqrt{b}$, \sqrt{b}, Greek letter \lambda, $\lambda, \(\lambda\). So you can directly use =\epsilon= to output Greek letters but math symbols cannot be rendered though.
+    \(\sqrt{b}\), $\sqrt{b}$, \sqrt{b}, Greek letter \lambda, $\lambda, \(\lambda\). So you can directly use =\epsilon= to output Greek letter \epsilon but math symbols like =\sqrt= cannot be rendered though.
