@@ -9,12 +9,12 @@
   [[./img/kid.jpg?raw=true "Baby"]]
 
 - Org-mode LaTeX test
-  GitHub does not support LaTeX equation rendering. For example, the following equation will not be shown using =#+BEGIN_LATEX=, =\begin{displaymath}=, =\[\]= or =\begin{equation*}=:
   + Displayed equations:
+    GitHub does not support LaTeX equation rendering. For example, the following equation will not be shown using =#+BEGIN_LATEX=, =\begin{displaymath}=, =\[\]= or =\begin{equation*}=:
   
-    \begin{equation*}
+    \begin{equation}
     x=\sqrt{b}
-    \end{equation*}
+    \end{equation}
   
   + Inline formulas:
-    \(\sqrt{b}\), $\sqrt{b}$, \sqrt{b}, Greek letter \epsilon, $\epsilon$, \(\epsilon\)
+    \(\sqrt{b}\), $\sqrt{b}$, \sqrt{b}, Greek letter \lambda, $\lambda, \(\lambda\). So you can directly use =\epsilon= to output Greek letters but math symbols cannot be rendered though.
