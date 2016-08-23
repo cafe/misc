@@ -19,6 +19,5 @@
   
   + Inline formulas:
     
-    Formula examples: \(\sqrt{b}\), $\sqrt{b}$, \sqrt{b}. Greek letter examples: \lambda, $\lambda$, \(\lambda\).
-    
+    Formula examples: \(\sqrt{b}\), $\sqrt{b}$, \sqrt{b}. Greek letter examples: \lambda, $\lambda$, \(\lambda\).\\
     So you can directly use =\epsilon= to output Greek letter \epsilon but math symbols like =\sqrt= cannot be rendered though.
