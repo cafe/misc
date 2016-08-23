@@ -7,7 +7,12 @@
   [[./img/kid.jpg?raw=true "Baby"]]
 
 - Org-mode LaTeX test
+  GitHub does not support LaTeX equation rendering. For example, the following equation will not be shown:
+  + Displayed equations:
   
-  #+BEGIN_LATEX
-  x=\sqrt{b}
-  #+END_LATEX
+    #+BEGIN_LATEX
+    x=\sqrt{b}
+    #+END_LATEX
+  
+  + Inline formulas:
+    \(\sqrt{b}\), $\sqrt{b}$, \sqrt{b}, Greek letter \epsilon, $\epsilon$, \(\epsilon\)
